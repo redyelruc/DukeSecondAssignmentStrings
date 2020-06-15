@@ -60,6 +60,12 @@ public class Part1Test {
         Assert.assertEquals(expected, part1.findGene(dna));
     }
 
+//    @Test
+//    public void testPrintAllGenesNoGenesReturnsEmptyString(){
+//        dna = "AATGTATGCATGGATCATC";
+//        String expected = "";
+//        Assert.assertEquals(expected, part1.printAllGenes(dna));
+//    }
 
 
 }
